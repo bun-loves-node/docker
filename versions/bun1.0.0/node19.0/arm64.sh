@@ -1,0 +1,6 @@
+
+export NODEJS_URL="https://nodejs.org/dist/v19.0.1/node-v19.0.1-linux-arm64.tar.xz"
+
+cd ..
+
+./docker-build-arm64.sh 1.0.0-node19.0-arm64

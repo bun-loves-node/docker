@@ -1,2 +1,2 @@
-# docker
-Docker Image Bun + Node
+# Bun ❤️ Node
+Docker Image Bun + Node + Yarn
